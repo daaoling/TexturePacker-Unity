@@ -11,7 +11,7 @@ TextureImporter:
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     linearTexture: 0
     correctGamma: 0
     fadeOut: 0
@@ -31,7 +31,7 @@ TextureImporter:
   maxTextureSize: 4096
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -72,7 +72,7 @@ TextureImporter:
     - name: 10003
       rect:
         serializedVersion: 2
-        x: 1
+        x: 198
         y: 103
         width: 194
         height: 200
@@ -82,8 +82,8 @@ TextureImporter:
     - name: 10004
       rect:
         serializedVersion: 2
-        x: 197
-        y: 117
+        x: 1
+        y: 120
         width: 195
         height: 186
       alignment: 9
@@ -103,7 +103,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 37
+        y: 54
         width: 52
         height: 64
       alignment: 9

@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 using System.Collections;
-
 public class mTest : MonoBehaviour {
 
 	// Use this for initialization
